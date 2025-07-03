@@ -1,0 +1,8 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver1.cpp
+  MyDriver1.vcxproj -> D:\Visual Studio Projects\CETP\Rootkit\x64\Release\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Visual Studio Projects\CETP\Rootkit\x64\Release\MyDriver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

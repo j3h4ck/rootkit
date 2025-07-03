@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDriver1", "MyDriver1\MyDriver1.vcxproj", "{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Com", "Com\Com.vcxproj", "{14DE7733-AC36-4E62-89A1-9D2F8737FD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|x64.ActiveCfg = Debug|x64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|x64.Build.0 = Debug|x64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Debug|x64.Deploy.0 = Debug|x64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|ARM64.Build.0 = Release|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|ARM64.Deploy.0 = Release|ARM64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|x64.ActiveCfg = Release|x64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|x64.Build.0 = Release|x64
+		{E71CB1EA-D253-4A82-B9AB-3E11AA313A20}.Release|x64.Deploy.0 = Release|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Debug|ARM64.ActiveCfg = Debug|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Debug|ARM64.Build.0 = Debug|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Debug|x64.ActiveCfg = Debug|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Debug|x64.Build.0 = Debug|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Release|ARM64.ActiveCfg = Release|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Release|ARM64.Build.0 = Release|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Release|x64.ActiveCfg = Release|x64
+		{14DE7733-AC36-4E62-89A1-9D2F8737FD90}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
